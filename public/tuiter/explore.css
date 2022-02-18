@@ -1,0 +1,20 @@
+.border-thin{border-width: 10px 20px 20px 20px;}
+.border-solid{border-style: solid;}
+.bg-color{background-color:rgb(47, 51, 54);}
+.rounded-corners-all-around {
+    border-radius: 50px;
+}
+.dimension-input{width:1600px; height:25px;}
+.margin-left {
+    margin-left: 120px;
+}
+.po-re-lt {
+    position: relative;
+    left: 16px;
+    top: 6px;
+}
+
+.rounded-corners-all-around {
+    border-radius: 50px;
+}
+
