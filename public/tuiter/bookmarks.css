@@ -1,0 +1,99 @@
+.wd-bg-color-black{
+    background-color: black;
+    margin-top: 30px;
+}
+.wd-fg-color-white{
+    color:white;
+}
+.wd-color-pink{
+    color: #ff145b;
+}
+.wd-center{
+    margin-right: 600px;
+    margin-left: 600px;
+}
+.wd-div-border{
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(47,51,54);
+}
+.wd-color-hyper{
+    color:rgb(29,161,242);
+    margin-bottom: 10px;
+}
+.wd-font-title{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.wd-author-font{
+    font-size: 15px;
+    color:white;
+    font-weight: bolder;
+}
+.wd-content-font{
+    font-size: 15px;
+    color:white;
+    font-weight: normal;
+}
+.wd-color-grey{
+    color : rgb(110,118,125);
+    font-size: 13px;
+}
+.wd-right{
+    float:right;
+    margin-right: 20px;
+}
+.wd-flex-end{
+    align-self: flex-end;
+}
+.wd-left{
+    float: left;
+}
+.wd-padding{
+    padding-left: 16px;
+    padding-right:  1px;
+    padding-top: 3px;
+    padding-bottom: 9px;
+}
+.wd-content-padding{
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+}
+.wd-content-margin{
+    margin-right: 16px;
+    margin-top: 12px;
+}
+.wd-rounded-circle{
+    border-radius: 50%;
+}
+.wd-display-flex{
+    display: flex;
+}
+.wd-rounded-corners-top-around {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.wd-rounded-corners-bottom-around {
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.wd-pic-margin{
+    margin-left: 85px;
+    margin-top: 10px;
+}
+.wd-option-margin{
+    margin-top:-4px;
+    margin-left: 85px;
+    margin-right: 95px;
+}
+.wd-icon-margin{
+    margin-left: 110px;
+}
+.wd-icon-left{
+    margin-left: 12px;
+}
+.wd-link-decor{
+    text-decoration: none;
+}
